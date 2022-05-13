@@ -1,9 +1,0 @@
-Please take this codebase as a starter and add a rating option to the user and show the summary at 
-each restaurant ​
-
-https://github.com/anijitsahu/react-app-simple-restaurant-app​
-​https://kiranworkspace.com/wp-content/uploads/edd/2020/10/rating-card.jpg​
-​https://d2d3qesrx8xj6s.cloudfront.net/img/screenshots/fad3c77218aee9b4c24ca3c653cd8251bf5468c4.jpeg​
-​​
-NOTE - create the database ​from the attached JSON file and add necessary attributes/columns and 
-create a new table as required
